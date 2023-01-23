@@ -2057,7 +2057,13 @@ main.freeze {
 }
 
 header .main_header {
-  position: relative;
+      /* position: relative; */
+      position: fixed;
+      /* display: contents; */
+     
+     
+      width: 100%;
+  
   z-index: 99999;
 }
 @media (max-width: 991px) {

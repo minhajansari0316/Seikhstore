@@ -42,14 +42,14 @@ const Footer = () => {
                   </div>
                 </div>
                 <div className="col-lg-3 col-md-6">
-                  <h3 data-target="#collapse_4">Keep in touch</h3>
-                  <div className="collapse dont-collapse-sm" id="collapse_4">
-                    <div id="newsletter">
+                  <h3 data-target="">Keep in touch</h3>
+                  <div className="" id="collapse_4">
+                    {/* <div id="newsletter">
                       <div className="form-group">
                         <input type="email" name="email_newsletter" id="email_newsletter" className="form-control" placeholder="Your email" />
                         <button type="submit" id="submit-newsletter"><i className="ti-angle-double-right" /></button>
                       </div>
-                    </div>
+                    </div> */}
                     <div className="follow_us">
                       <h5>Follow Us</h5>
                       <ul>

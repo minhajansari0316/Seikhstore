@@ -45,7 +45,7 @@ const Indexs =()=> {
                     </figure>
                     <div className="rating"><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star" /></div>
                     <a href="product-detail-1.html">
-                      <h3>Armor Air x Fear</h3>
+                      <h3>j.</h3>
                     </a>
                     <div className="price_box">
                       <span className="new_price">Rs:1100</span>
@@ -72,7 +72,7 @@ const Indexs =()=> {
                     </figure>
                     <div className="rating"><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star" /></div>
                     <a href="product-detail-1.html">
-                      <h3>Armor Okwahn II</h3>
+                      <h3>Khaadi</h3>
                     </a>
                     <div className="price_box">
                       <span className="new_price">Rs:1000</span>
@@ -99,7 +99,7 @@ const Indexs =()=> {
                     </figure>
                     <div className="rating"><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star" /></div>
                     <a href="product-detail-1.html">
-                      <h3>Armor Air Wildwood ACG</h3>
+                      <h3>Gul Ahmed</h3>
                     </a>
                     <div className="price_box">
                       <span className="new_price">Rs:1300</span>
@@ -125,7 +125,7 @@ const Indexs =()=> {
                     </figure>
                     <div className="rating"><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star" /></div>
                     <a href="product-detail-1.html">
-                      <h3>Armor ACG React Terra</h3>
+                      <h3>Sana Safinaz</h3>
                     </a>
                     <div className="price_box">
                       <span className="new_price">Rs:1000</span>
@@ -150,7 +150,7 @@ const Indexs =()=> {
                     </figure>
                     <div className="rating"><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star" /></div>
                     <a href="product-detail-1.html">
-                      <h3>Armor Air Zoom Alpha</h3>
+                      <h3>Warda</h3>
                     </a>
                     <div className="price_box">
                       <span className="new_price">Rs:1400</span>
@@ -175,7 +175,7 @@ const Indexs =()=> {
                     </figure>
                     <div className="rating"><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star" /></div>
                     <a href="product-detail-1.html">
-                      <h3>Armor Air Alpha</h3>
+                      <h3>Firdous Lawn</h3>
                     </a>
                     <div className="price_box">
                       <span className="new_price">$130.00</span>
@@ -200,7 +200,7 @@ const Indexs =()=> {
                     </figure>
                     <div className="rating"><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star" /></div>
                     <a href="product-detail-1.html">
-                      <h3>Armor Air Max 98</h3>
+                      <h3>Bareeze Lawn</h3>
                     </a>
                     <div className="price_box">
                       <span className="new_price">Rs:1500</span>
@@ -225,16 +225,16 @@ const Indexs =()=> {
                     </figure>
                     <div className="rating"><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star" /></div>
                     <a href="product-detail-1.html">
-                      <h3>Armor Air Max 720</h3>
+                      <h3>Kayseria</h3>
                     </a>
                     <div className="price_box">
                       <span className="new_price">Rs:1200</span>
                     </div>
-                    <ul>
+                    {/* <ul>
                       <li><a href="#0" className="tooltip-1" data-toggle="tooltip" data-placement="left" title="Add to favorites"><i className="ti-heart" /><span>Add to favorites</span></a></li>
                       <li><a href="#0" className="tooltip-1" data-toggle="tooltip" data-placement="left" title="Add to compare"><i className="ti-control-shuffle" /><span>Add to compare</span></a></li>
                       <li><a href="#0" className="tooltip-1" data-toggle="tooltip" data-placement="left" title="Add to cart"><i className="ti-shopping-cart" /><span>Add to cart</span></a></li>
-                    </ul>
+                    </ul> */}
                   </div>
                   {/* /grid_item */}
                 </div>
@@ -304,7 +304,7 @@ const Indexs =()=> {
                     </figure>
                     <div className="rating"><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star" /></div>
                     <a href="product-detail-1.html">
-                      <h3>Air Zoom Alpha</h3>
+                      <h3>Sapphire</h3>
                     </a>
                     <div className="price_box">
                       <span className="new_price">$140.00</span>
@@ -328,7 +328,7 @@ const Indexs =()=> {
                     </figure>
                     <div className="rating"><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star" /></div>
                     <a href="product-detail-1.html">
-                      <h3>Air Color 720</h3>
+                      <h3>Al Karam</h3>
                     </a>
                     <div className="price_box">
                       <span className="new_price">$120.00</span>
@@ -352,7 +352,7 @@ const Indexs =()=> {
                     </figure>
                     <div className="rating"><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star voted" /><i className="icon-star" /></div>
                     <a href="product-detail-1.html">
-                      <h3>Okwahn II</h3>
+                      <h3>Nishat</h3>
                     </a>
                     <div className="price_box">
                       <span className="new_price">$90.00</span>
